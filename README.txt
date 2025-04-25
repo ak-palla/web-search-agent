@@ -21,7 +21,7 @@ INSTALLATION
 ------------
 
 1. Clone this repository:
-   git clone https://github.com/yourusername/web-research-agent.git
+   git clone https://github.com/ak-palla/web-research-agent.git
    cd web-research-agent
 
 2. Install the required dependencies:
