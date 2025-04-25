@@ -37,7 +37,7 @@ USAGE
 -----
 
 Run the Streamlit app:
-   streamlit run trial1.py
+   streamlit run web_search_agent.py
 
 The web interface will open in your browser, where you can:
 1. Enter your research question in the text input
