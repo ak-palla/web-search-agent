@@ -779,7 +779,7 @@ def research_sub_query(sub_query: str) -> str:
 
 # --- Streamlit UI ---
 st.set_page_config(page_title="Web Research Agent", layout="wide")
-st.title("🌐 Advanced Web Research Agent")
+st.title("Web Research Agent")
 
 st.markdown("""
 <div style="padding: 1rem; background-color: #f0f2f6; border-radius: 10px;">
