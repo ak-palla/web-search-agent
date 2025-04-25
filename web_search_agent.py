@@ -1,4 +1,4 @@
-# Web Research Agent - Improved Version
+# Web Research Agent 
 
 import os
 import streamlit as st
